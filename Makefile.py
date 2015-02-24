@@ -1,1 +1,1 @@
-StaticLibrary( 'yaml', sources = [ '.' ] )
+StaticLibrary( 'tinyaml', sources = [ '.' ] )
