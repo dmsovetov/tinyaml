@@ -24,6 +24,8 @@
 
  **************************************************************************/
 
+#define	YAML_DECLARE_STATIC	//! Fixed Windows linker error
+
 #include "Yaml.h"
 #include <yaml/yaml.h>
 #include <math.h>
